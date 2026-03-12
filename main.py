@@ -1,2 +1,3 @@
 print('Hello from main!')
-print(55)
+print(555)
+x = 10
